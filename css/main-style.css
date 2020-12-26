@@ -1,0 +1,154 @@
+/* Style for La Tlapalería Hardware Store */
+body{
+	background-color: #f3f9f9;
+}
+
+h1{
+	font-family: Stencil, Impact;
+	text-align: center;
+	color: #212f29;
+}
+
+h2{
+	font-family: Stencil, Impact;
+	color: #212f29;
+}
+
+#ths{
+	font-size: 70%;
+}
+
+.container-title{
+	background: #ffdc00;
+	background: -webkit-radial-gradient(50% 0, circle,#ffdc00,#EC7505);
+	background: -moz-radial-gradient(50% 0, circle,#ffdc00,#EC7505);
+	background: radial-gradient(50% 0, circle,#ffdc00,#EC7505);
+ }
+
+.no-padding{
+	padding:0;
+}
+
+.nave{
+	font-weight: bold;
+}
+
+.navbar-nav a:hover{
+	background-color: #1a936f;
+	color: #fff!important;
+}
+
+
+#why-us{
+	margin: 4rem 1rem;
+
+}
+
+#img-wu{
+	width: 100%;
+	max-width: 1280px;
+}
+
+footer{
+	color: #ece5f0;
+	background-color: #3b413c;
+	padding:	1rem 1rem;
+}
+
+.footer-nav{
+	text-align: right;
+}
+
+.footer-nav li {
+	display: inline-block;
+	margin: 0 10px;
+	vertical-align: top;
+}
+
+.footer-nav li:last-child{
+  margin-right: 0;
+}
+
+.footer-nav li a{
+	color: #ece5f0!important;
+}
+
+.footer-nav li a:hover {
+	color: #ffdc00!important;
+}
+
+#pbody{
+	margin: 2rem 1rem;
+	text-align: center;
+}
+
+.img-products{
+	width: 100%;
+}
+
+#need-info{
+	font-size: 150%;
+}
+
+.con-sect{
+	margin: 2em 0em;
+}
+
+
+.message-form label{
+	color: #212f29;
+	font-weight: 500;
+}
+.message-form input,
+.message-form textarea{
+	border: 1px solid #c6c9cc;
+	border-radius: 5px;
+	color: #888;
+	display: block;
+	margin: 5px 0 27px 0;
+	padding: 5px 8px;
+}
+.message-form input{
+	width: 140%;
+}
+
+.message-form textarea{
+	width: 200%;
+}
+
+.message-form textarea{
+	height: 90px;
+	font-size: 0.85rem;
+}
+
+.btn{
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-weight: 500;
+	letter-spacing: .5px;
+	margin: 0;
+	text-transform: uppercase;
+	border: 1px solid #fff;
+	background: #477998;
+	padding: 11px 30px;
+	font-size: 14px;
+}
+
+.btn:hover {
+	color: #fff;
+	background: #1c567a;
+}
+
+#send-message{
+	color: #1c567a;
+	font-style: italic;
+	padding-bottom: 1.5rem;
+	font-weight: 500;
+}
+
+.gmap{
+	width: 100%;
+	height: 300px;
+}
