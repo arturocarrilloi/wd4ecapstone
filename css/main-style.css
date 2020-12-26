@@ -49,6 +49,10 @@ h2{
 	max-width: 1280px;
 }
 
+main{
+	padding-top: 10rem;
+}
+
 footer{
 	color: #ece5f0;
 	background-color: #3b413c;
